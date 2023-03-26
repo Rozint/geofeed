@@ -2,5 +2,6 @@
 23.150.40.140/28,US,US-VA,Ashburn,
 2602:2B7::/36,US,,,
 2602:2b7:1:98::/64,US,US-TX,Dallas,
+2602:2b7:1:100::/64,US,US-TX,Dallas,
 2602:2b7:1:200::/64,US,US-TX,Dallas,
 2602:2b7:1::241/64,US,US-VA,Ashburn,
