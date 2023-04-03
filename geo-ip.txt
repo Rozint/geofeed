@@ -1,9 +1,9 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Rozint Geofeed AS21738
 23.150.40.0/24,US,US-VA,Ashburn,
-23.150.40.140/28,US,US-VA,Ashburn,
+23.150.40.240/28,US,US-VA,Ashburn,
 2602:2B7::/36,US,US-VA,Ashburn,
 2602:2b7:1:98::/64,US,US-TX,Dallas,
 2602:2b7:1:100::/64,US,US-TX,Dallas,
 2602:2b7:1:200::/64,US,US-TX,Dallas,
-2602:2b7:1::241/64,US,US-VA,Ashburn,
+2602:2b7:1::241/128,US,US-VA,Ashburn,
