@@ -1,5 +1,6 @@
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Rozint Geofeed AS21738
+23.150.40.56/29,US,US-NY,Manhattan,
 23.150.40.0/24,US,US-MO,Kansas City,
 2602:2B7::/36,US,US-MO,Kansas City,
 2602:2b7:40::/48,US,US-MO,Kansas City,
