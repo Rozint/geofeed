@@ -2,6 +2,12 @@
 # Rozint Geofeed AS21738
 23.150.40.0/24,US,US-MO,Kansas City,
 23.150.41.0/24,US,US-MO,Kansas City,
-2602:2B7::/36,US,US-MO,Kansas City,
+2602:2b7:d00::/40,US,US-MO,Kansas City,
 2602:2b7:40::/48,US,US-MO,Kansas City,
 2602:2b7:69::/48,US,US-MO,Kansas City,
+2602:2b7:C43::/48,FR,FR-IDF,Paris,
+2602:2b7:C48::/48,GB,GB-ENG,London,
+2602:2b7:C51::/48,IN,IN-TS,Hyderabad,
+2602:2b7:C31::/48,RU,RU-MOW,Moscow,
+2602:2b7:C79::/48,BR,BR-MA,Sao Luis,
+2602:2b7:C47::/48,AU,AU-VIC,Broadmeadows
