@@ -25,4 +25,4 @@
 2602:2b7:c79::/48,BR,BR-MA,Sao Luis,,/128,
 2602:2b7:c47::/48,AU,AU-VIC,Broadmeadows,,/128,
 2602:2b7:e1::/48,US,US-MO,Kansas City,64116,/128,
-2a01:e280::/29,US,US-MO,Kansas City,64116,/128,
+2a01:e287::/32,US,US-MO,Kansas City,64116,/128,
